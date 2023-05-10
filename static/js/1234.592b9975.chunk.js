@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxchain=self.webpackChunkxchain||[]).push([[1234],{31234:function(n,u,c){c.r(u),c.d(u,{default:function(){return e.Z}});var e=c(60627)}}]);
