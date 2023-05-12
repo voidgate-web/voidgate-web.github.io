@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvoigate=self.webpackChunkvoigate||[]).push([[1234],{31234:function(e,t,u){u.r(t),u.d(t,{default:function(){return n.Z}});var n=u(60627)}}]);
