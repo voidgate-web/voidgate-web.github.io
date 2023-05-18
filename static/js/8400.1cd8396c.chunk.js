@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkvoigate=self.webpackChunkvoigate||[]).push([[8400],{6501:function(e,s,n){n.r(s);var t=n(38125),a=n(20836),c=n(89760),i=n(80184);s.default=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.Z,{title:"Rebecca Jackson"}),(0,i.jsxs)("main",{children:[(0,i.jsx)(a.Z,{}),(0,i.jsx)(c.Z,{})]})]})}}}]);
-//# sourceMappingURL=8400.1cd8396c.chunk.js.map
